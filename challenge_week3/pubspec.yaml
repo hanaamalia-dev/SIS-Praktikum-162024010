@@ -1,0 +1,33 @@
+name: challenge_week3
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/login.png
+    - assets/register.png
+    - assets/americano.png
+    - assets/cafe.png
+    - assets/chocolate_frappe.png
+    - assets/espresso.png
+    - assets/fore.png
+    - assets/matcha_latte.png
